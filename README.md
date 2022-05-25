@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![wakatime](https://wakatime.com/badge/user/e58fd96b-e98b-410c-a01d-cd71fe6be9b3.svg)](https://wakatime.com/@e58fd96b-e98b-410c-a01d-cd71fe6be9b3)
 
-I'm currently studying Computer Science at Hof University in the fifth semester.
+I'm currently studying Computer Science at Hof University in the sixth semester.
 
 As a dual student I'm working at dc AG, where I have finished my apprenticeship in February 2021 and I'm now working as Trainee in the Innovation Lab there.
 
