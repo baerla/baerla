@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 [![wakatime](https://wakatime.com/badge/user/e58fd96b-e98b-410c-a01d-cd71fe6be9b3.svg)](https://wakatime.com/@e58fd96b-e98b-410c-a01d-cd71fe6be9b3)
 
-I'm currently studying Computer Science at Hof University in the sixth semester.
+I'm currently studying Entrepreneurial Cybersecurity (M.Eng.) at Saarland University.
 
-As a dual student I'm working at dc AG, where I have finished my apprenticeship in February 2021 and I'm now working as Trainee in the Innovation Lab there.
+As a dual student I'm working at dc AG, where I have finished my apprenticeship in February 2021 and I'm now working as a System Operator in the Operations team there.
 
+🌱 I’m currently learning "systems security"🔐, "side-channel attacks🔨 and defenses"🛡️ and "fuzzing"
+
+💬 Ask me about docker🐋, software architecture and formula one🏎️
