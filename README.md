@@ -20,6 +20,8 @@ I'm currently studying Entrepreneurial Cybersecurity (M.Eng.) at Saarland Univer
 
 As a dual student I'm working at dc AG, where I have finished my apprenticeship in February 2021 and I'm now working as a System Operator in the Operations team there.
 
-🌱 I’m currently learning "systems security"🔐, "side-channel attacks🔨 and defenses"🛡️ and "fuzzing"
+🌱 I’m currently learning "mobile security" 📱, consulting 🗣️ and formal verification 🔎
+
+🔭 I’m currently working on my startup which focuses on OT network security. If you are interested to join as a co-founder, write me on LinkedIn.
 
 💬 Ask me about docker🐋, software architecture and formula one🏎️
